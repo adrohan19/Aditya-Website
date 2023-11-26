@@ -10,24 +10,24 @@ function SocialMobile() {
   return (
     <div id="SocialMobile" className="socials-mobile">
       <div className="social-icons-mobile">
-        <a href="https://github.com/clementou" className="social-icon-mobile">
+        <a href="https://github.com/adrohan19" className="social-icon-mobile">
           <GitHubIcon />
         </a>
-        <a href="https://www.instagram.com/ouclement">
+        <a href="https://www.instagram.com/adityardhir">
           <InstagramIcon />
         </a>
-        <a href="https://www.twitter.com/ClementOu">
+        {/* <a href="https://www.twitter.com/ClementOu">
           <TwitterIcon />
-        </a>
-        <a href="https://www.linkedin.com/in/clementou">
+        </a> */}
+        <a href="https://www.linkedin.com/in/aditya-dhir">
           <LinkedinIcon />
         </a>
-        <a href="mailto: clement.h.ou@gmail.com">
+        <a href="mailto: adityadhir19@gmail.com">
           <EmailIcon />
         </a>
-        <a href="https://plex.clementou.com">
+        {/* <a href="https://plex.clementou.com">
           <PlexIcon className="svg-icon" />
-        </a>
+        </a> */}
       </div>
     </div>
   );

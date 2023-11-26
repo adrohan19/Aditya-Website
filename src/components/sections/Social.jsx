@@ -10,27 +10,24 @@ function Social() {
   return (
     <div className="socials">
       <div className="social-icons">
-        <a href="https://github.com/clementou">
-          <GitHubIcon className="svg-icon" />
+      <a href="https://github.com/adrohan19" className="social-icon-mobile">
+          <GitHubIcon />
         </a>
-        <a href="https://www.instagram.com/ouclement">
-          <InstagramIcon className="svg-icon" />
+        <a href="https://www.instagram.com/adityardhir">
+          <InstagramIcon />
         </a>
-        <a href="https://www.twitter.com/ClementOu">
-          <TwitterIcon className="svg-icon" />
+        {/* <a href="https://www.twitter.com/ClementOu">
+          <TwitterIcon />
+        </a> */}
+        <a href="https://www.linkedin.com/in/aditya-dhir">
+          <LinkedinIcon />
         </a>
-        <a href="https://www.linkedin.com/in/clementou">
-          <LinkedinIcon className="svg-icon" />
+        <a href="mailto: adityadhir19@gmail.com">
+          <EmailIcon />
         </a>
-        <a href="mailto: clement.h.ou@gmail.com">
-          <EmailIcon className="svg-icon" />
-        </a>
-        <a href="https://plex.clementou.com">
+        {/* <a href="https://plex.clementou.com">
           <PlexIcon className="svg-icon" />
-        </a>
-      </div>
-      <div className="social-line">
-        <div className="line" />
+        </a> */}
       </div>
     </div>
   );

@@ -1,23 +1,48 @@
 [
     {
-        "name": "jabil",
-        "title": "Test Engineer",
-        "company": "Jabil",
-        "dateRange": "Sep 2022 - Apr 2023",
+        "name": "Dish Networks",
+        "title": "Machine Learning Engineering Intern",
+        "company": "Dish Networks",
+        "dateRange": "May 2023 - Aug 2023",
         "descriptions": [
-            "During this experience, I worked on manufacturing projects for multiple larget tech companies, leading them from start to finish.",
-            "I pioneered the implementation of new test line monitoring software, combining and replacing previous logging, failure analysis, and reporting tools, reducing errors and operator workload.",
-            "On one project, I managed a test site, supervising a team of three operators, overseeing testing, debugging, and resolution of customer failures."
+            "Employed ChatGPT in conjunction with the OpenAI API and Elasticsearch to enhancecontent curation for the vast catalog (millions) of entertainment offerings",
+            "Streamlined indexing of pre-trained models from Hugging Face into the content databasefor improved efficiency",
+            "Achieved a 30%+ boost in the content curation process, with the solution I devisedgetting accepted and being pushed to production",
+            "Received award for best embodying 'Curiosity', 1 of 4 key company values, amongst mypeer group of 72 interns",
+            "Award citation reads: Aditya is naturally inquisitive. He asks questions, buildsrelationships, and is able to connect with stakeholders easily through his interpersonalskills. Due to his ability to ask the right questions, driven by the desire to learn more ...he was able to identify a crucial and address a crucial pain point."
         ]
     },
     {
-        "name": "boba",
-        "title": "Bobarista",
-        "company": "Boba Guys",
-        "dateRange": "Aug 2022 - Apr 2023",
+        "name": "Comedy Club",
+        "title": "Server",
+        "company": "Ann Arbor Comedy Club",
+        "dateRange": "Jan 2023 - Apr 2023",
         "descriptions": [
-            "I worked part-time as a barista at a boba shop in Los Altos.",
-            "I was responsible for front and back of the house operations, keeping inventory and handling customers."
+            "I was responsible for front and back of the house operations, keeping inventory and handling customers.",
+            "Balanced rigorous academic commitments with customer service excellence as a waiterhoning multitasking and interpersonal skills"
+        ]
+    },
+    {
+        "name": "SDE",
+        "title": "Software Development Engineer Intern",
+        "company": "Crownpeak",
+        "dateRange": "Feb 2021 - May 2021",
+        "descriptions": [
+            "Managed a GDPR/CCPA database comprising of more than 10,000 unique tags and cookies.",
+            "Utilized SQL to efficiently organize extensive sets of RegEx queries within the database.",
+            "Built a scalable database and ensured cookie compliance and integration into TagManagement Platform"
+        ]
+    },
+    {
+        "name": "Data Scinece",
+        "title": "Data Science Intern",
+        "company": "Mindstrong Inc.",
+        "dateRange": "May 2019 - Aug 2019",
+        "descriptions": [
+            "Designed and conducted a study to investigate neural activity associated with motor control-based typing patterns on smartphones.",
+            "Devised a comprehensive system comprising of an Android app, Web app, and Microcontroller-based Wi-Fi trigger, employing JS, HTML, and CSS.",
+            "Integrated an EEG headset into the system to record subjects' electrical brain activity.",
+            "Analyzed the gathered data and leveraged pandas, MNE, and SQL to implement a robustdatabase for further analysis."
         ]
     }
 ]
