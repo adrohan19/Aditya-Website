@@ -5,57 +5,129 @@
         "courses": [
             {
                 "id": "c1",
-                "number": "15-351",
-                "name": "Algorithms and Advanced Data Structures",
-                "desc": "Examines algorithm design principles and the efficient data structures that support them, covering topics like run time analysis, various algorithmic strategies, and NP-completeness, with a focus on theoretical problem-solving rather than programming."
+                "number": "EECS 442",
+                "name": "Computer Vision",
+                "desc": "An introduction to 2D and 3D computer vision. Topics include: camera models, the geometry of multiple views; shape reconstruction methods from visual cues; low-level image processing techniques such as feature detection; high-level vision problems such as object recognition and scene understanding."
             },
             {
                 "id": "c2",
-                "number": "95-482",
-                "name": "Enterprise Web Development",
-                "desc": "Explores the intricacies of enterprise web application development, focusing on server-side programming, n-tier architecture, and user-centric personalization, culminating in the hands-on creation of a comprehensive web application utilizing technologies like PHP, Django, and MySQL."
+                "number": "EECS 492",
+                "name": "Introduction to Artificial Intelligence",
+                "desc": "Introduction to the core concepts of AI, organized around building computational agents. Emphasizes the application of AI techniques. Topics include search, logic, knowledge representation, reasoning, planning, decision making under the uncertainty, and machine learning."
             },
             {
                 "id": "c33",
-                "number": "36-315",
-                "name": "Statistical Graphics and Visualization",
-                "desc": "Introduces common graphical displays for quantitative data, their creation, interpretation, and potential pitfalls, alongside a project applying these methods to real-world scientific or engineering data, complemented by practical lab sessions on graphical software usage."
+                "number": "Guitar 111",
+                "name": "Intermediate Guitar Performance",
+                "desc": "A hands-on class focusing on intermediate-level guitar performance, including intermediate instrumental technique and music literacy, often with a focus on specific performance styles."
             },
             {
                 "id": "c4",
-                "number": "36-350",
-                "name": "Statistical Computing",
-                "desc": "Introduces statistical computing for statisticians, covering fundamental programming concepts and statistical applications like data analysis and linear models, using R language."
+                "number": "FTVM 441",
+                "name": "An Introduction to Global Media",
+                "desc": "This course focuses on the role of global media institutions in society and also examine how diverse audiences use global media to negotiate with issues of cultural identity in everyday life. The goal of this course is to introduce you to a broad range of issues that are stimulating research in the field of global media studies."
             },
             {
                 "id": "c5",
-                "number": "79-261",
-                "name": "The Last Emperors: Chinese History and Society, 1600-1900",
-                "desc": "Introduces the Qing dynasty in late-imperial China, exploring its multi-ethnic empire, societal transformations, responses to 19th-century challenges including Western imperialism, and the eventual fall of the imperial system and subsequent societal reformation."
+                "number": "TCHNCLCM 496",
+                "name": "Advanced Technical Communication for Electrical Engineering and Computer Engineering",
+                "desc": "Development of advanced communication skills required of electrical and computer engineers and managers in industry, government, and business. Design and writing of reports, proposals, and memoranda on complex technical material for diverse organizational audiences. Preparation and delivery of organizational oral presentations and briefings."
+            }
+        ]
+    },
+    {
+        "semesterId": "w23",
+        "semesterName": "Winter 2023",
+        "courses": [
+            {
+                "id": "c1",
+                "number": "EECS 481",
+                "name": "Software Engineering",
+                "desc": "Pragmatic aspects of the production of software systems, dealing with structuring principles, design methodologies and informal analysis. Emphasis is given to development of large, complex software systems. A term project usually required."
+            },
+            {
+                "id": "c2",
+                "number": "EECS 497",
+                "name": "Human-Centered Software Design and Development",
+                "desc": "Team-based, user-centered design and development of complex software systems incorporating effective design strategies and project management methodologies. Topics include customer discovery, contextual inquiry, prototyping, process models, creative problem solving, inclusive thinking, team dynamics, social concerns, and testing strategies. "
+            },
+            {
+                "id": "c33",
+                "number": "EECS 496",
+                "name": "Major Design Experience-Professionalism",
+                "desc": "Design principles for multidisciplinary team projects, team strategies, entrepreneurial skills, ethics, social and environmental awareness, and life long learning."
+            },
+            {
+                "id": "c4",
+                "number": "FTVM 353",
+                "name": "Film History: Post New Wave",
+                "desc": "This course examines the development of cinema during a period characterized by significant changes in film form and style as well as by important industrial and technological developments. It considers the international dimensions of these changes as well as their specific national and institutional contexts. The course also addresses questions of historical method in film scholarship and the relevance of this period to current trends in film production and reception."
+            },
+            {
+                "id": "c5",
+                "number": "TCHNCLCM 300",
+                "name": "Technical Communication for Electrical and Computer Science",
+                "desc": "Professional communication to the general public, managers, and other professionals about electrical and computer engineering ideas as presented in written reports and oral presentations. Functional, physical, and visual/diagrammatic descriptions; job letters and resumes."
+            }
+        ]
+    },
+    {
+        "semesterId": "f22",
+        "semesterName": "Fall 2022",
+        "courses": [
+            {
+                "id": "c1",
+                "number": "EECS 485",
+                "name": "Web Systems",
+                "desc": "Concepts surrounding web systems, applications, and internet scale distributed systems. Topics covered include client/server protocols, security, information retrieval and search engines, scalable data processing, and fault tolerant systems. The course has substantial projects involving development of web applications and web systems."
+            },
+            {
+                "id": "c2",
+                "number": "EECS 445",
+                "name": "Introduction to Machine Learning",
+                "desc": "Theory and implementation of state-of-the-art machine learning algorithms for large-scale real-world applications. Topics include supervised learning (regression, classification, kernel methods, neural networks, and regularization) and unsupervised learning (clustering, density estimation, and dimensionality reduction)."
+            },
+            {
+                "id": "c33",
+                "number": "EECS 484",
+                "name": "Database Management Systems",
+                "desc": "Concepts and methods for the design, creation, query and management of large enterprise databases. Functions and characteristics of the leading database management systems. Query languages such as SQL, forms, embedded SQL, and application development tools. Database design, integrity, normalization, access methods, query optimization, transaction management and currency control and recovery."
+            },
+            {
+                "id": "c4",
+                "number": "FTVM 150",
+                "name": "Introduction to Film, Television, and Media",
+                "desc": "This course provides an introduction to film, television, and media. You will learn the critical vocabulary and methods of media analysis, and use this knowledge to make your voice heard in the form of audiovisual essays rather than written papers. The course is designed to build basic video editing and sound recording skills throughout the semester--no prior experience is needed. With a focus on representations of race, gender, class, and sexual identities, you will learn how to assess film, television, and digital media with an eye (and ear) keenly attuned to the ways that style shapes the meanings of the media that surround all of us in everyday life."
             }
         ]
     },
     {
         "semesterId": "s22",
-        "semesterName": "Spring 2022",
+        "semesterName": "Winter 2022",
         "courses": [
             {
                 "id": "c1",
-                "number": "73-102",
+                "number": "ECON 101",
                 "name": "Principles of Microeconomics",
                 "desc": "Introduces microeconomic principles and economic reasoning, examining individual decision-making, market dynamics, the role of government, and strategic interaction, with a practical approach to understanding everyday economic questions and building a toolkit for market analysis."
             },
             {
                 "id": "c2",
-                "number": "48-241",
-                "name": "History of Modern Architecture",
-                "desc": "Investigates the global evolution of 20th-century modern architecture and theory, questioning established narratives and examining the impact of colonialism, globalization, and capitalism, while considering diverse worldwide architectural responses, with content that adapts annually to reflect contemporary understandings and contexts."
+                "number": "EECS 376",
+                "name": "Foundations of Computer Science",
+                "desc": "An introduction to theory of computation. Models of computation: finite state machines, Turing machines. Decidable and undecidable problems. Polynomial time computability and paradigms of algorithm design. Computational complexity emphasizing NP-hardness. Coping with intractability. Exploiting intractability: cryptography."
             },
             {
                 "id": "c3",
-                "number": "82-138",
-                "name": "Comparative China: Perceptions Through Youtube & TikTok",
-                "desc": "Explores how China is portrayed through various media, particularly emerging platforms like YouTube and TikTok, encouraging critical evaluation and cross-cultural analysis of these depictions to deepen understanding of Chinese society, culture, and its global perception."
+                "number": "EECS 370",
+                "name": "Introduction to Computer Organization",
+                "desc": "Basic concepts of computer organization and hardware. Instructions executed by a processor and how to use these instructions in simple assembly-language programs. Stored-program concept. Data-path and control for multiple implementations of a processor. Performance evaluation, pipelining, caches, virtual memory, input/output."
+            },
+            {
+                "id": "c4",
+                "number": "STATS 280",
+                "name": "Honors Introduction to Statistics and Data Analysis",
+                "desc": "This course is an introduction to statistical methods and data analysis at the honors level, targeting advanced undergraduate students who are interested in a challenging introductory course."
             }
         ]
     },
@@ -65,57 +137,51 @@
         "courses": [
             {
                 "id": "c1",
-                "number": "36-225",
-                "name": "Introduction to Probability Theory",
-                "desc": "Introduces probability and mathematical statistics for data science students, covering basic theory, random variables, various distributions, and foundational principles like the law of large numbers and the central limit theorem."
+                "number": "EECS 281",
+                "name": "Data Structures and Algorithms",
+                "desc": "Introduction to the algorithm analysis and O-notation; Fundamental data structures including lists, stacks, queues, priority queues, hash tables, binary trees, search trees, balanced, trees, and graphs; searching and sorting algorithms; recursive algorithms; basic graph algorithms; introduction to greedy algorithms and divide and conquer strategy. Several programming assignments."
             },
             {
                 "id": "c2",
-                "number": "03-125",
-                "name": "Evolution",
-                "desc": "Provides an essential understanding of evolutionary theory as the cornerstone of biology, covering its history, foundational facts, phylogenetics, genetics, and mechanisms driving life's diversity, along with specialized topics like evolutionary medicine and genome evolution."
+                "number": "ENG 100-850",
+                "name": "Robotic Mechanisms",
+                "desc": "Propose a robot application, research the problem and stakeholders, build proof of concept and simulation of application. Provides exposure to the electro-mechanical processes behind robotic sensing, decision-making, and actuation. Basic embedded software and state-machine formulation."
             },
             {
                 "id": "c3",
-                "number": "57-173",
-                "name": "Survey of Western Music History",
-                "desc": "Surveys the evolution of European art music from Gregorian chant to contemporary works, focusing on influential figures and themes, especially those concerning period style and performance interpretation."
+                "number": "Chem 130",
+                "name": "General Chemistry: Macroscopic Investigations and Reaction Principles",
+                "desc": "This General Chemistry course provides an introduction to the major concepts of chemistry, including the microscopic picture of atomic and molecular structure, periodic trends in the chemical reactivity, the energetics of chemical reactions, and the nature of chemical equilibria."
+            },
+            {
+                "id": "c4",
+                "number": "ASTRO 107",
+                "name": "Dark Matter",
+                "desc": "Explored the dark components of the universe - those that we cannot directly see with our eyes - including Dark Energy, Dark Matter, and Black Holes. Foundd out how scientists infer their existence and measure their properties from observations of the visible parts of our Universe."
             }
         ]
     },
     {
-        "semesterId": "s21",
-        "semesterName": "Spring 2021",
+        "semesterId": "w21",
+        "semesterName": "Winter 2021",
         "courses": [
             {
                 "id": "c1",
-                "number": "36-302",
-                "name": "Methods for Statistics & Data Science",
-                "desc": "Advances statistical principles, delving into regression analysis, logistic regression, ANOVA, and introductory machine learning, with a strong emphasis on using R Studio for data analysis and model creation, culminating in projects that synthesize statistical methods, reproducibility, and ethical considerations in data use."
+                "number": "EECS 280",
+                "name": "Programming and Introductory Data Structures",
+                "desc": "Algorithm development and effective programming, top-down analysis, structured programming, testing, and program correctness. Program language syntax and static and runtime semantics. Scope, procedure instantiation, recursion, abstract data types, and parameter passing methods. Structured data types, pointers, linked data structures, stacks, queues, arrays, records, and trees."
             },
             {
                 "id": "c2",
-                "number": "21-122",
-                "name": "Integration and Approximation",
-                "desc": "Covers integration techniques like trigonometric substitution and partial fractions, numerical integration methods, differential equations, optimization algorithms, Taylor's Theorem with remainders, and series analysis, alongside parametric curves, polar coordinates, and vector fundamentals, delivered through lectures and recitations."
+                "number": "EECS 203",
+                "name": "Discrete Math",
+                "desc": "Introduction to the mathematical foundations of computer science. Topics covered include: prepositional and predicate logic, set theory, function and relations, growth of functions and asymptotic notation, introduction to algorithms, elementary combinatorics, and graph theory, and discrete probability theory."
             },
             {
                 "id": "c3",
-                "number": "66-131",
-                "name": "Culture, Sports, and Conflict in/and VR",
-                "desc": "Examines sports as a reflection of cultural and societal values and explores how Virtual Reality (VR) can craft narratives to enhance user engagement with these perspectives, culminating in student-designed immersive experiences on sports conflicts for display in the Askwith Kenner Global Languages and Cultures Room."
-            },
-            {
-                "id": "c4",
-                "number": "76-107",
-                "name": "Writing about Data",
-                "desc": "Focuses on interpreting and crafting arguments with numerical and qualitative data across various disciplines, including assessing how research is portrayed in media and developing skills for communicating data to diverse audiences, with a final project of writing an original data-driven research proposal."
-            },
-            {
-                "id": "c5",
-                "number": "76-108",
-                "name": "Writing about Public Problems",
-                "desc": "Teaches how to define and argue public problems through analysis of proposals, op-eds, and white papers, preparing students to write persuasive solutions for complex issues and to address varied stakeholders, culminating in crafting their own proposal for solving a real-world problem."
+                "number": "MATH 214",
+                "name": "Linear Algebra",
+                "desc": "This course is an introduction to matrices and linear algebra, with an emphasis on concepts and problem solving. It is particularly focused on linear programming and applications in computer science."
             }
         ]
     },
@@ -137,21 +203,15 @@
             },
             {
                 "id": "c3",
-                "number": "21-256",
-                "name": "Multivariate Analysis",
-                "desc": "Focuses on matrix algebra and optimization for Economics and Business Administration students, covering vectors, dot and cross products, partial derivatives, gradients, optimization techniques, and multiple integration, including applications in probability."
+                "number": "PHYS 140",
+                "name": "General Physics",
+                "desc": "Introduction to classical mechanics, the physics of motion. Topics include: vectors, linear motion, projectiles, relative velocity, circular motion, Newton's laws, particle dynamics, work and energy, linear momentum, torque, angular momentum, gravitation, planetary motion, fluid statics and dynamics, simple harmonic motion, waves and sound."
             },
             {
                 "id": "c4",
-                "number": "36-200",
-                "name": "Reasoning with Data",
-                "desc": "Introduces statistical decision-making and reasoning with various data types, emphasizing critical analysis of empirical problems and the use of statistical tools to evaluate hypotheses. Methodological topics include exploratory data analysis, probability, and significance tests, applied across interdisciplinary case studies."
-            },
-            {
-                "id": "c5",
-                "number": "79-104",
-                "name": "Global Histories",
-                "desc": "Provides students with the skills to comprehend global interconnectivity and history, encouraging critical thinking, effective argumentation, and appreciation of historical relevance through a blend of lectures, recitations, and written assessments."
+                "number": "ENGR 110",
+                "name": "Design Your Engineering Experience",
+                "desc": "This elective course offers a comprehensive overview of engineering at the University of Michigan, highlighting the field's diverse majors and career paths. Explored how engineering impacts the world and identify your interests to align them with academic and co-curricular opportunities. The course guides you in creating a personalized educational plan that blends your passions with Michigan's offerings."
             }
         ]
     }
