@@ -5,6 +5,7 @@ import TwitterIcon from '../../icons/twitter';
 import LinkedinIcon from '../../icons/linkedin';
 import EmailIcon from '../../icons/email';
 import PlexIcon from '../../icons/plex';
+import SpotifyIcon from '../../icons/spotify';
 
 function Social() {
   return (
@@ -25,9 +26,9 @@ function Social() {
         <a href="mailto: adityadhir19@gmail.com">
           <EmailIcon />
         </a>
-        {/* <a href="https://plex.clementou.com">
-          <PlexIcon className="svg-icon" />
-        </a> */}
+        <a href="https://open.spotify.com/user/adityadhir19?si=6a3571a15121411a">
+          <SpotifyIcon className="svg-icon" />
+        </a>
       </div>
     </div>
   );
